@@ -1,8 +1,10 @@
-### Hello there 👋
-- ☕ I’m currently learning Java.
-- 💬 Fan of Super Heroes, Star Wars, Harry Potter, Minecraft and Pokemon.
-- 📫 How to reach me: Discord - Player Max = new Steve();#3833
-- ⚡ I love junk food and Tacos!
+### Hello there 👋 
+
+## My name is Thomas!
+
+- I'm currently learning Java ☕
+- I make Minecraft mods 🎮
+
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=tjglass06&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
