@@ -2,6 +2,7 @@
 
 ## My name is Thomas!
 
+- He/Him
 - I'm currently learning Java ☕
 - I make Minecraft mods 🎮
 
